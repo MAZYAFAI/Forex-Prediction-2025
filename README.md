@@ -49,11 +49,6 @@ This project investigates whether modern automated machine learning (AutoML) app
 - Walk-forward validation and dynamic model updating
 - Backtesting with transaction costs and slippage
 
-## 📂 Repository Structure
-- `data/` → cleaned FX datasets
-- `notebooks/` → exploratory analysis and preprocessing steps
-- `scripts/` → AutoTS modeling and evaluation code
-- `results/` → forecast outputs, evaluation metrics, and plots
 
 ## 📜 Citation
 If you use this work, please cite:
